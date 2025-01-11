@@ -1,0 +1,27 @@
+{
+  "ALERT": {
+    "NETWORK_ERROR": {
+      "TITLE": "Network Error",
+      "MESSAGE": "Something went wrong with your network!"
+    }
+  },
+  "SEARCH": {
+    "INPUT_PLACEHOLDER": "Search movies, genres,...",
+    "RESULTS_SEARCH": "Results for '{{keyword}}'"
+  },
+  "RECOMMENDATION": {
+    "TOP_RATED": "Top Rated",
+    "UPCOMING": "Upcoming",
+    "POPULAR": "Popular",
+    "SEE_ALL": "See all"
+  },
+  "MOVIE": {
+    "RUNTIME": "{{time}} mins",
+    "OVERVIEW": "Storyline",
+    "SIMILAR_LIST_TITLE": "Similar",
+    "CASTS": "Casts",
+    "REVIEWS": "Reviews",
+    "EXPAND": "More",
+    "COLLAPSE": "Collapse"
+  }
+}
